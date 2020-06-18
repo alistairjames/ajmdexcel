@@ -1,4 +1,4 @@
-## ajmdexcel is a repostory for example Excel files
+## ajmdexcel is a repository for example Excel files
 
 **Excel_VBA**  
 This contains an Excel file that uses a Visual Basic macro to automate the import of data and perform a calculation on the imported data. The results are then displayed in a chart.
